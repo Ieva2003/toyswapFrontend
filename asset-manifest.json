@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/toyswapFrontend/static/js/main.21e4f64e.js",
+    "index.html": "/toyswapFrontend/index.html",
+    "main.21e4f64e.js.map": "/toyswapFrontend/static/js/main.21e4f64e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.21e4f64e.js"
+  ]
+}
